@@ -1,0 +1,14 @@
+{
+	"sites": [
+		{
+			"url": "http://www.uol.com.br/",
+			"css": [
+				"http://www.uol.com.br/camaleao/assets/web/home.css",
+				"http://www.uol.com.br/camaleao/assets/web/stylesheet/icons.css"
+			]
+		},{
+			"url": "http://security.apiki.com/",
+			"css": ["http://security.apiki.com/stylesheets/style.css"]
+		}
+	]
+}
